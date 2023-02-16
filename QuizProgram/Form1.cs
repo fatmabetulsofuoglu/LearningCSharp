@@ -15,6 +15,7 @@ namespace QuizProgram
             buttonB.Enabled = false;
             buttonC.Enabled = false;
             buttonD.Enabled = false;
+            buttonNextQuestion.Enabled = true;
 
             label4.Text = buttonA.Text;
 
@@ -40,6 +41,7 @@ namespace QuizProgram
             buttonB.Enabled = false;
             buttonC.Enabled = false;
             buttonD.Enabled = false;
+            buttonNextQuestion.Enabled = true;
 
             label4.Text = buttonB.Text;
 
@@ -65,6 +67,7 @@ namespace QuizProgram
             buttonB.Enabled = false;
             buttonC.Enabled = false;
             buttonD.Enabled = false;
+            buttonNextQuestion.Enabled = true;
 
             label4.Text = buttonC.Text;
 
@@ -90,6 +93,7 @@ namespace QuizProgram
             buttonB.Enabled = false;
             buttonC.Enabled = false;
             buttonD.Enabled = false;
+            buttonNextQuestion.Enabled = true;
 
             label4.Text = buttonD.Text;
 
@@ -115,6 +119,11 @@ namespace QuizProgram
             buttonB.Enabled = true;
             buttonC.Enabled = true;
             buttonD.Enabled = true;
+            buttonNextQuestion.Enabled = false;
+            label6.Visible = false;
+            label5.Visible = false;
+            pictureBoxCorrect.Visible = false;
+            pictureBoxWrong.Visible = false;
 
             questionNo++;
             labelQuestionNo.Text = questionNo.ToString();
@@ -149,7 +158,32 @@ namespace QuizProgram
                 buttonD.Text = "Reşat Nuri Güntekin";
                 label5.Text = "Sait Faik Abasıyanık";
             }
-        }
 
+            if (questionNo == 4)
+            {
+                richTextBox1.Text = "Türkiye'nin başkenti nedir?";
+                buttonA.Text = "İstanbul";
+                buttonB.Text = "Bursa";
+                buttonC.Text = "Ankara";
+                buttonD.Text = "Edirne";
+                label5.Text = "Ankara";
+            }
+
+            if (questionNo == 5)
+            {
+                labelQuestionNo.Visible = false;
+                buttonNextQuestion.Text = "Sonuçlar";
+                buttonA.Enabled = false;
+                buttonB.Enabled = false;
+                buttonC.Enabled = false;
+                buttonD.Enabled = false;
+                buttonNextQuestion.Enabled = false;
+                label6.Visible = false;
+                label5.Visible = false;
+                pictureBoxCorrect.Visible = false;
+                pictureBoxWrong.Visible = false;
+                MessageBox.Show("Doğru: " + correctNo + "\nYanlış: " + wrongNo);
+            }
+        }
     }
 }
