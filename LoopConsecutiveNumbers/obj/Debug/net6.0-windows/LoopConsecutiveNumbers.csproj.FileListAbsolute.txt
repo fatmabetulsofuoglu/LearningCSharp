@@ -1,0 +1,17 @@
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\bin\Debug\net6.0-windows\LoopConsecutiveNumbers.exe
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\bin\Debug\net6.0-windows\LoopConsecutiveNumbers.deps.json
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\bin\Debug\net6.0-windows\LoopConsecutiveNumbers.runtimeconfig.json
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\bin\Debug\net6.0-windows\LoopConsecutiveNumbers.dll
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\bin\Debug\net6.0-windows\LoopConsecutiveNumbers.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.csproj.AssemblyReference.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.Form1.resources
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.csproj.GenerateResource.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.AssemblyInfoInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.AssemblyInfo.cs
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.dll
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\refint\LoopConsecutiveNumbers.dll
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\LoopConsecutiveNumbers.genruntimeconfig.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\LoopConsecutiveNumbers\obj\Debug\net6.0-windows\ref\LoopConsecutiveNumbers.dll
