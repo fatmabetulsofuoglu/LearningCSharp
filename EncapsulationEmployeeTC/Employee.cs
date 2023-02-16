@@ -50,7 +50,7 @@ namespace EncapsulationEmployeeTC
                 }
                 else
                 {
-                    Console.WriteLine("Girdiğiniz TC Kimlik No 11 karakter olmalı!");
+                    Console.WriteLine("Girdiğiniz TC Kimlik Numarası 11 karakter olmalı!");
                 }
             }
         }
