@@ -1,0 +1,8 @@
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\obj\Debug\EncapsulationEmployeeTC.csproj.AssemblyReference.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\obj\Debug\EncapsulationEmployeeTC.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\obj\Debug\EncapsulationEmployeeTC.csproj.CoreCompileInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\bin\Debug\EncapsulationEmployeeTC.exe.config
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\bin\Debug\EncapsulationEmployeeTC.exe
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\bin\Debug\EncapsulationEmployeeTC.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\obj\Debug\EncapsulationEmployeeTC.exe
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\EncapsulationEmployeeTC\obj\Debug\EncapsulationEmployeeTC.pdb
