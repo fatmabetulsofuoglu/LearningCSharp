@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizProgram", "QuizProgram\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopConsecutiveNumbers", "LoopConsecutiveNumbers\LoopConsecutiveNumbers.csproj", "{206E5D58-4392-43F2-9CDF-2B3973F1963E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{A36137AB-B1D1-49E5-85D2-37E2CDBC9974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{206E5D58-4392-43F2-9CDF-2B3973F1963E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{206E5D58-4392-43F2-9CDF-2B3973F1963E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{206E5D58-4392-43F2-9CDF-2B3973F1963E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36137AB-B1D1-49E5-85D2-37E2CDBC9974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36137AB-B1D1-49E5-85D2-37E2CDBC9974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36137AB-B1D1-49E5-85D2-37E2CDBC9974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36137AB-B1D1-49E5-85D2-37E2CDBC9974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\bin\Debug\net6.0-windows\Timer.exe
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\bin\Debug\net6.0-windows\Timer.deps.json
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\bin\Debug\net6.0-windows\Timer.runtimeconfig.json
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\bin\Debug\net6.0-windows\Timer.dll
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\bin\Debug\net6.0-windows\Timer.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.csproj.AssemblyReference.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.Form1.resources
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.csproj.GenerateResource.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.AssemblyInfoInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.AssemblyInfo.cs
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.csproj.CoreCompileInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.dll
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\refint\Timer.dll
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\Timer.genruntimeconfig.cache
+C:\Users\SOFUOGLU\Documents\GitHub\LearningCSharp\Timer\obj\Debug\net6.0-windows\ref\Timer.dll
